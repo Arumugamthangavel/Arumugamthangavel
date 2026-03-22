@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Arumugam Thangavel
 
+<br/>
+
 🚀 **Aspiring Cloud Engineer | AWS | Linux | DevOps | Python**
 
 
