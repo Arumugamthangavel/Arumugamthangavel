@@ -6,14 +6,7 @@
 
 🚀 **Aspiring Cloud Engineer | AWS | Linux | DevOps | Python**
 
-
-
-
-
-
 I’m focused on building scalable systems, automating workflows, and learning real-world cloud infrastructure.
-
-
 
 ## 💡 Current Focus
 - ☁️ Learning AWS (EC2, S3, IAM)
@@ -21,7 +14,7 @@ I’m focused on building scalable systems, automating workflows, and learning r
 - ⚙️ Practicing DevOps tools (Docker, CI/CD, Terraform)
 - 🐍 Writing automation scripts in Python
 
----
+
 
 ## 🛠️ Tech Stack
 - **Cloud:** AWS  
