@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Agentic AI for DevOps**
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
+- 👯 I’m looking for people who 
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Full Stack & DevOps**
+- 💬 Ask me about **Python development**
 
-- 📫 How to reach me **sripadmachintha@gmail.com**
+- 📫 How to reach me **arumugamkadt@gmail.com**
 
 <br>
 
