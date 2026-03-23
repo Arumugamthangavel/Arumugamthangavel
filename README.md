@@ -1,6 +1,6 @@
 <!-- 🔴 TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arumugam%20Thangavel&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arumugam%20Thangavel&fontSize=48&fontAlignY=35" />
 </p>
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -11,7 +11,7 @@
 
 I build scalable systems, automate workflows, and explore real-world cloud infrastructure.
 
-<br/>
+<br>
 
 ## 💡 Current Focus
 - ☁️ AWS (EC2, S3, IAM)
