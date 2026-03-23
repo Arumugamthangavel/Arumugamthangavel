@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Agentic AI for DevOps**
 
-- 👯 I’m looking for people who 
+- 👯 I’m looking for ways to obtain more **knowledge** in this field
 
 - 🤝 I’m looking for help with **DevOps**
 
