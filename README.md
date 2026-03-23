@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Arumugam</h1>
 <h3 align="center">A passionate Cloud & DevOps Enginner from India</h3>
 
-<img align="right" alt="Coder GIF" height=270 width=300 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif%22" /> 
+<img align="right" alt="Coder GIF" height=270 width=300 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> 
 
 - 🌱 I’m currently learning **Agentic AI for DevOps**
 
