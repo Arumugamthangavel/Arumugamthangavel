@@ -1,15 +1,21 @@
 <!-- 🔴 TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arumugam%20Thangavel&fontSize=48&fontAlignY=35" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arumugam%20Thangavel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Devops%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 👋 Hi, I'm Arumugam Thangavel
+<h1 align="center">Hi 👋, I'm Arumugam</h1>
+<h3 align="center">A passionate Cloud & DevOps Enginner from India</h3>
 
-🚀 **Aspiring Cloud Engineer | AWS | Linux | DevOps | Python**
+<img align="right" alt="Coder GIF" height=270 width=300 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif%22" /> 
 
-I build scalable systems, automate workflows, and explore real-world cloud infrastructure.
+- 🌱 I’m currently learning **Agentic AI for DevOps**
+
+- 👯 I’m looking to collaborate on **Cloud native Projects**
+
+- 🤝 I’m looking for help with **DevOps**
+
+- 💬 Ask me about **Full Stack & DevOps**
+
+- 📫 How to reach me **sripadmachintha@gmail.com**
 
 <br>
 
