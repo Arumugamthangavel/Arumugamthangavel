@@ -42,6 +42,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arumugamthangavel&theme=tokyonight" height="150"/>
 </p>
 
+<p>
+## 💻 LeetCode Stats
+
+   [LeetCode Stats](https://leetcode-stats.vercel.app/api?username=6face&theme=dark)
+
+
 <br/>
 
 ## 📌 Featured Projects
