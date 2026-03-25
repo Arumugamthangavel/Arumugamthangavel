@@ -45,7 +45,7 @@
 <p>
 ## 💻 LeetCode Stats
 
-   [LeetCode Stats](https://leetcode-stats.vercel.app/api?username=6face&theme=dark)
+   [LeetCode Stats]([https://leetcode-stats.vercel.app/api?username=6face&theme=dark](https://leetcode.com/u/6face/))
 
 
 <br/>
