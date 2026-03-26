@@ -42,10 +42,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arumugamthangavel&theme=tokyonight" height="150"/>
 </p>
 
-<p>
+
 ## 💻 LeetCode Stats
 
-   [LeetCode Stats](https://leetcode.com/u/6face/)
+<p>
+
+  <strong> LeetCode Statistics:</strong>
+
+ ![](https://leetcard.jacoblin.cool/6face?ext=contest)
    
 </p>
 
