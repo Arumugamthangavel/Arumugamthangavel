@@ -40,10 +40,16 @@
 <p>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arumugamthangavel&theme=tokyonight" height="150"/>
-  https://camo.githubusercontent.com/590c64ebb7d0c0ed3060a2cdb7d0201951b65bdc6733ceeaa77a43c3b69915ed/68747470733a2f2f74726f7068792e7279676c636c6f75642e6e65742f3f757365726e616d653d7372697061646d612d676974267468656d653d6769746875625f6461726b266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d342663616368655f7365636f6e64733d3836343030
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sripadma-git&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="sripadma-git's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=sripadma-git&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sripadma-git's GitHub Streak" width="49%" />
 </p>
-
-
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sripadma-git&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sri padma Chinta's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sripadma-git&theme=github_dark&radius=10" alt="sripadma-git's Activity Graph" />
+</p>
 ## 💻 LeetCode Stats
 
 <p>
