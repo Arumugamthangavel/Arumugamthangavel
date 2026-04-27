@@ -40,15 +40,7 @@
 <p>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arumugamthangavel&theme=tokyonight" height="150"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sripadma-git&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="sripadma-git's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=sripadma-git&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sripadma-git's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=sripadma-git&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sri padma Chinta's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sripadma-git&theme=github_dark&radius=10" alt="sripadma-git's Activity Graph" />
+
 </p>
 ## 💻 LeetCode Stats
 
