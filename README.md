@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,git,jenkins,ansible,terraform" />
 </p>
 
