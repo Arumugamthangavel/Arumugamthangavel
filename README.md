@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,git" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,git](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,git,jenkins,ansible,terraform" />
 </p>
 
 <br/>
