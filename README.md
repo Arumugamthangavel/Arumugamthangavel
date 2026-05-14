@@ -20,9 +20,9 @@
 <br>
 
 ## 💡 Current Focus
-- ☁️ AWS (EC2, S3, IAM)
+- ☁️ AWS (EC2, S3, IAM, RDS, Route 53, EBF, EFS, Cloud Formation)
 - 🐧 Linux fundamentals
-- ⚙️ DevOps (Docker, CI/CD, Terraform)
+- ⚙️ DevOps (Docker, CI/CD, Terraform, Kubernetes, Prometheus, Grafana)
 - 🐍 Automation with Python
 
 <br/>
